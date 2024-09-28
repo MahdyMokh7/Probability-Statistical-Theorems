@@ -1,0 +1,55 @@
+-------------------
+perm_lemm: True,  perm_stem: True,  perm_clear_garbage_words: True,  alpha: 1
+Accuracy of each category:
+داستان کوتاه:  %74
+کلیات اسلام:  %80
+مدیریت و کسب و کار:  %92
+داستان کودک و نوجوانان:  %75
+جامعه‌شناسی:  %90
+رمان:  %82
+runTime:  3.0min 19.785768799949437sec
+accuracy:  %81
+-------------------
+perm_lemm: True,  perm_stem: True,  perm_clear_garbage_words: True,  alpha: 0.7
+Accuracy of each category:
+مدیریت و کسب و کار:  %92
+داستان کودک و نوجوانان:  %75
+کلیات اسلام:  %82
+داستان کوتاه:  %72
+رمان:  %78
+جامعه‌شناسی:  %88
+runTime:  3.0min 49.08602580009028sec
+accuracy:  %80
+-------------------
+perm_lemm: True,  perm_stem: True,  perm_clear_garbage_words: True,  alpha: 1.5
+Accuracy of each category:
+داستان کودک و نوجوانان:  %71
+کلیات اسلام:  %80
+مدیریت و کسب و کار:  %92
+جامعه‌شناسی:  %90
+رمان:  %87
+داستان کوتاه:  %71
+runTime:  3.0min 43.721952999942005sec
+accuracy:  %81
+-------------------
+perm_lemm: False,  perm_stem: False,  perm_clear_garbage_words: True,  alpha: 1
+Accuracy of each category:
+داستان کودک و نوجوانان:  %75
+رمان:  %78
+کلیات اسلام:  %83
+داستان کوتاه:  %74
+مدیریت و کسب و کار:  %91
+جامعه‌شناسی:  %90
+runTime:  3.0min 51.58910090010613sec
+accuracy:  %81
+-------------------
+perm_lemm: True,  perm_stem: True,  perm_clear_garbage_words: False,  alpha: 1
+Accuracy of each category:
+داستان کودک و نوجوانان:  %74
+رمان:  %87
+جامعه‌شناسی:  %88
+کلیات اسلام:  %78
+مدیریت و کسب و کار:  %92
+داستان کوتاه:  %62
+runTime:  7.0min 7.1088646000716835sec
+accuracy:  %79
